@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 <!-- - 🔭 &nbsp; I’m currently working on Nodejs project  -->
 <!-- - 🌱 &nbsp; I’m currently learning react js  -->
 
-<br/>
 
 ### Connect with me:
 
@@ -65,7 +64,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-<br/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amanr3085)  
 
@@ -79,13 +77,10 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanr3085&show_icons=true&theme=tokyonight)
 
 
-<br/>
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amanr3085&show_icons=true&count_private=truet&theme=tokyonight)  
 
 
-<br><br>
 
 <hr>
 
